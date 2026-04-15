@@ -2,7 +2,7 @@
 
 [🇩🇪 Deutsch](README_DE.md) | 🇬🇧 English
 
-> Practical reference for uinew.lua.
+> Practical reference.
 > Built for fast integration without trial-and-error.
 
 ---
