@@ -41,7 +41,7 @@ Hauptdatei: uinew.lua
 ## Schnellstart
 
 ```lua
-local NebularityUI = loadfile("SniperDuels/uinew.lua")()
+local NebularityUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/DOMARICU/NebularityUI/refs/heads/main/nebularityui.lua"))()
 
 local ui = NebularityUI:CreateUI({
     Theme = "Nebula",
