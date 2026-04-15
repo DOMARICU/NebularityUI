@@ -1,6 +1,21 @@
 # Nebularity UI Library
 
-[🇩🇪 Deutsch](README_DE.md) | 🇬🇧 English
+<p align="center">
+  <img src="assets/nebularity-showcase.png" alt="Nebularity UI Library Showcase" width="100%">
+</p>
+
+<h1 align="center">Nebularity UI Library</h1>
+
+<p align="center">
+  <strong>Practical reference.</strong><br>
+  Built for fast integration without trial-and-error.
+</p>
+
+<p align="center">
+  <a href="README_DE.md">🇩🇪 Deutsch</a> ·
+  <a href="README.md">🇬🇧 English</a>
+</p>
+
 
 > Practical reference.
 > Built for fast integration without trial-and-error.
