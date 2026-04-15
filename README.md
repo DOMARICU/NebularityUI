@@ -1,7 +1,7 @@
 # Nebularity UI Library
 
 <p align="center">
-  <img src="assets/nebularity-showcase.png" alt="Nebularity UI Library Showcase" width="100%">
+  <img src="Showcase.png" alt="Nebularity UI Library Showcase" width="100%">
 </p>
 
 <h1 align="center">Nebularity UI Library</h1>
