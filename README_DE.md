@@ -2,7 +2,7 @@
 
 [🇬🇧 English](README.md) | 🇩🇪 Deutsch
 
-> Praxisreferenz für uinew.lua.
+> Praxisreferenz.
 > Gebaut für schnelle Integration ohne Trial-and-Error.
 
 ---
