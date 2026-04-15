@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="README_DE.md">🇩🇪 Deutsch</a> ·
   <a href="README.md">🇬🇧 English</a>
+  <a href="README_DE.md">🇩🇪 Deutsch</a> ·
 </p>
 
 > Praxisreferenz.
