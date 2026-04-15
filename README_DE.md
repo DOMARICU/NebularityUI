@@ -1,5 +1,7 @@
 # Nebularity UI Bibliothek
 
+[🇬🇧 English](README.md) | 🇩🇪 Deutsch
+
 > Praxisreferenz für uinew.lua.
 > Gebaut für schnelle Integration ohne Trial-and-Error.
 
